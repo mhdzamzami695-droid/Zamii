@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./profile-banner.svg" width="100%" alt="Banner" />
+  <img src="./foto.jpeg" width="100%" alt="Banner" />
 </div>
 
 <h1 align="center">Hi, I'm Zami 👋</h1>
